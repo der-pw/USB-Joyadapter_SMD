@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name Joyadapter_SMD-rescue)(type Legacy)(uri ${KIPRJMOD}/Joyadapter_SMD-rescue.lib)(options "")(descr ""))
+)
