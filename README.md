@@ -3,4 +3,4 @@ ATtiny based USB adapter for classic DB9 joysticks
 
 ## state is WOP
 
-![Draufsicht](https://raw.githubusercontent.com/der-pw/USB-Joyadapter_SMD/main/images/3D_top_side.jpg)
+![Draufsicht](https://raw.githubusercontent.com/der-pw/USB-Joyadapter_SMD/main/images/3D_top.jpg)
