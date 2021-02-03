@@ -2,5 +2,6 @@
 ATtiny based USB adapter for classic DB9 joysticks
 
 ## state is WOP
+### more informations are comming soon
 
 ![Draufsicht](https://raw.githubusercontent.com/der-pw/USB-Joyadapter_SMD/main/images/3D_top_side.jpg)
