@@ -4,8 +4,9 @@ ATtiny basierter USB adapter für classic DB9 joysticks.
 Die Ursprungsidee kommt aus dem forum64.de.  
 https://www.forum64.de/index.php?thread/43055-usb-joystickadapter-neue-firmware-weiterentwicklung/
 
-Die Software ist frei verfügbar und wird u.a. in dem [Thread](https://www.forum64.de/index.php?thread/43055-usb-joystickadapter-neue-firmware-weiterentwicklung/&postID=1390222#post1390222) zum Download angeboten, alle anderen Quellen (zumindest die, die ich gefunden habe, laufen ins Leere).
-Daher stelle ich die Daten, der Vollständigkeit halber in dem Ordner [USB-Joystickadapter_THT](https://github.com/der-pw/USB-Joyadapter_SMD/tree/main/USB-Joystickadapter_THT) mit zur Verfügung. Darin enthalten sind sowohl die Software, zwei kompillierte Versionen, einmal für ATtiny2313 und ATtiny4313 und zusätzlich auch die Boarddaten der "alten" THT-Version. Ich bin aber nicht der Author.
+Die Software ist frei verfügbar und wird u.a. in dem [Thread](https://www.forum64.de/index.php?thread/43055-usb-joystickadapter-neue-firmware-weiterentwicklung/&postID=1390222#post1390222) zum Download angeboten, alle anderen Quellen, zumindest die, die ich gefunden habe, laufen ins Leere.
+Daher stelle ich die Daten, der Vollständigkeit halber in dem Ordner [USB-Joystickadapter_THT](https://github.com/der-pw/USB-Joyadapter_SMD/tree/main/USB-Joystickadapter_THT) mit zur Verfügung. Darin enthalten sind sowohl die Software, zwei kompillierte Versionen, einmal für ATtiny2313 und ATtiny4313 und zusätzlich auch die Boarddaten der "alten" THT-Version.  
+Ich bin aber nicht der Author!
 
 Ich wollte eine SMD Version, möglichst kompakt aber noch gut zum Handlöten, haben.
 Das Platinenlayout liegt als [KiCad-Projekt](https://github.com/der-pw/USB-Joyadapter_SMD/tree/main/kicad) vor. Exportierte Gerberdaten für Fertiger (bspw. [JLCPCB](https://jlcpcb.com/)) kann man ebenfalls [hier herunterladen](https://github.com/der-pw/USB-Joyadapter_SMD/raw/main/Joyadapter_SMD_gerber.zip).
