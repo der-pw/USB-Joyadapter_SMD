@@ -15,7 +15,7 @@ Das Platinenlayout liegt als [KiCad-Projekt](https://github.com/der-pw/USB-Joyad
 
 ### Programmierung
 Ich habe das Hexfile mittels [AVRDUDESS](https://github.com/zkemble/AVRDUDESS) und einem ISP-Programmer auf den ATtiny geschrieben.
-Die ISP-Schnittstelle wurde aus Platzgründen als SMS-Pads ausgeführt.
+Die ISP-Schnittstelle wurde aus Platzgründen als SMD-Pads ausgeführt.
 Eine Möglichkeit, man lötet Verbindungskabel zum Programmer an, ober man baut mit einer Buchsenleiste 6x1 RM2,54, 6 Pogo-Pins (P50-B1) und dem [Adapter](https://github.com/der-pw/USB-Joyadapter_SMD/blob/main/3D%20print/Pogo-Adapter.stl) eine Programmierklemme.
 Da man das Teil prinzipiell nur einmal flashed und die Software ist m.E. ausentwickelt, kann man wohl eher kurz ein paar Kabel anlöten.
 
