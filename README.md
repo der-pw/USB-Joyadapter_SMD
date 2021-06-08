@@ -1,7 +1,7 @@
 # USB-Joyadapter_SMD  ![License: CC BY-SA 4.0](https://img.shields.io/badge/License-CC%20BY--SA%204.0-lightgrey.svg)
-ATtiny basierter USB adapter für classic DB9 joysticks
+ATtiny basierter USB adapter für classic DB9 joysticks.
 
-Die Ursprungsidee kommt aus dem forum64.de <br>
+Die Ursprungsidee kommt aus dem forum64.de.  
 https://www.forum64.de/index.php?thread/43055-usb-joystickadapter-neue-firmware-weiterentwicklung/
 
 Die Software ist frei verfügbar und wird u.a. in dem [Thread](https://www.forum64.de/index.php?thread/43055-usb-joystickadapter-neue-firmware-weiterentwicklung/&postID=1390222#post1390222) zum Download angeboten, alle anderen Quellen (zumindest die, die ich gefunden habe, laufen ins Leere).
